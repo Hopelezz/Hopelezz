@@ -1,7 +1,7 @@
 ![Frame 1](https://user-images.githubusercontent.com/72772558/176937706-e7aa6eeb-f38e-4866-8433-2006691cfb07.png)
 
 
-
+[![@Hopelezz Astro contributions](https://astro.badg.es/v1/contributor/Hopelezz.svg)](https://astro.badg.es/v1/contributor/Hopelezz/)
 <!--
 **Hopelezz/Hopelezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
